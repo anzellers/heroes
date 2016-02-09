@@ -76,12 +76,12 @@ body {
 }
 .hero {
     opacity: 0.3;
-    /*display: none;
-    margin:0 auto;*/
+    display: none;
+    margin:0 auto;
 }
 .shown {
     opacity: 1.0;
-    /*display: block;*/
+    display: block;
 }
 button.prev, button.next {
     width:100px;
